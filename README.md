@@ -13,7 +13,7 @@
 </p>
 
 
-# Tanjiro [Scary Dev's](https://discord.gg/EvwrKftvtS) | English Only
+# Tanjiro [Universe](https://discord.gg/EvwrKftvtS) | English Only
 
 - My commands are very simple, they can be seen through my [WebSite](https://tanjiro0.webnode.com/) or using my command t!help to access my list of commands :)
 
