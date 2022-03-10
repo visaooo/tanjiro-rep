@@ -2,7 +2,7 @@
     <a href="https://tanjiro0.webnode.com/"><img width='60%' src="https://imgur.com/c8Ta0HW.png"></a>
     <br>
     <a href="https://standardjs.com/"><img width='108px' src="https://i.imgur.com/7nT5ptA.png"></a>
-    <a href="https://discord.gg/EvwrKftvtS"><img src="https://img.shields.io/discord/760855525000216646?color=%237086D2&label=Discord&logo=Discord&style=for-the-badge">
+    <a href="https://discord.gg/qtPkA7ndp7"><img src="https://img.shields.io/discord/760855525000216646?color=%237086D2&label=Discord&logo=Discord&style=for-the-badge">
     <br>
     <br>
 </p>
