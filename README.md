@@ -16,9 +16,9 @@
 <a href="https://top.gg/bot/566841380425695256">
   <img width='30%' src="https://top.gg/api/widget/566841380425695256.svg">
 </a>
-# Tanjiro [Universe](https://discord.gg/EvwrKftvtS) | English Only
+# Tanjiro [Universe](https://discord.gg/qtPkA7ndp7) | English Only
 
-- My commands are very simple, they can be seen through my [WebSite](https://tanjiro0.webnode.com/) or using my command t!help to access my list of commands :)
+- My commands are very simple, they can be seen through my [WebSite](https://tanjirobot.netlify.app/) or using my command t!help to access my list of commands :)
 
 - I'm always trying to update myself and add new commands to entertain my users
 
@@ -37,9 +37,9 @@
 - Utility
 
 
-# Tanjiro [Universe](https://discord.gg/EvwrKftvtS) | Portuguese Only 
+# Tanjiro [Universe](https://discord.gg/qtPkA7ndp7) | Portuguese Only 
 
-- Meus comandos são bem simples, eles podem ser vistos através do meu [WebSite](https://tanjiro0.webnode.com/) ou utilizando meu comando t!help para ter acesso a minha lista de comandos :)
+- Meus comandos são bem simples, eles podem ser vistos através do meu [WebSite](https://tanjirobot.netlify.app/) ou utilizando meu comando t!help para ter acesso a minha lista de comandos :)
 
 - Estou sempre tentando me atualizar e adicionar novos comandos para entreter meus usuários
 
